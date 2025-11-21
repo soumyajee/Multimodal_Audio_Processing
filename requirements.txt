@@ -1,0 +1,11 @@
+numpy
+pandas
+librosa
+soundfile
+sentence-transformers
+scikit-learn
+matplotlib
+seaborn
+torch
+torchaudio
+faiss-cpu
